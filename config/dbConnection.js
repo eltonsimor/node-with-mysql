@@ -5,7 +5,7 @@ var connMySQL = () => {
         host : 'localhost',
         user : 'root',
         password : 'root',
-        database : 'noticias'        
+        database : 'dbnoticias'        
     });
 }
 
